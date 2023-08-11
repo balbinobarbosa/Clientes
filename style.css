@@ -40,12 +40,12 @@ button a {
 }
 
 .button-ativo {
-	background-color: rgba(150, 154, 209, 0.445);
+	background-color: rgb(117, 173, 117);
     margin-bottom: 10px;
 }
 
 .button-inativo {
-	background-color: rgba(129, 37, 37, 0.445);
+	background-color: rgb(255, 255, 255);
     margin-bottom: 10px;
 }
 
